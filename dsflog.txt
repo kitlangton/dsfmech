@@ -1,0 +1,142 @@
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S1_Cap
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S1_GS
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S1_Mag
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S1_Shades
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S1_Tester
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S2_GS
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S2_Ramp
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S2_TP
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S3_GS
+PRODUCT: /Bare Escentuals/8 Bay/Bay 1/Bay 1 B1S3_TP
+PRODUCT: /Bare Escentuals/8 Bay/Bay 2/Bay 2 B2S1_CTU 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 2/Bay 2 B2S1_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 2/Bay 2 B2S2_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 2/Bay 2 B2S2_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 2/Bay 2 B2S3_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 2/Bay 2 B2S3_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 3/Bay 3 B3S1_CTU 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 3/Bay 3 B3S1_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 3/Bay 3 B3S2_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 3/Bay 3 B3S2_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 3/Bay 3 B3S3_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 3/Bay 3 B3S3_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S1_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S1_Ramp 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S1_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S2_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S2_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S3_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 4/Bay 4 B4S3_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/B5S2_136 Ramp
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S1_132
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S1_133
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S2_136
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S2_137
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S3_142
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S3_142 Ramp
+PRODUCT: /Bare Escentuals/8 Bay/Bay 5/Bare Escentuals B5S3_BE142
+PRODUCT: /Bare Escentuals/8 Bay/Bay 6/Bare Escentuals B6S1_189
+PRODUCT: /Bare Escentuals/8 Bay/Bay 6/Bare Escentuals B6S1_BE1200
+PRODUCT: /Bare Escentuals/8 Bay/Bay 6/Bare Escentuals B6S2_BE140
+PRODUCT: /Bare Escentuals/8 Bay/Bay 6/Bare Escentuals B6S2_BE141
+PRODUCT: /Bare Escentuals/8 Bay/Bay 6/Bare Escentuals B6S3_BE138
+PRODUCT: /Bare Escentuals/8 Bay/Bay 6/Bare Escentuals B6S3_BE139
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S1_CTU 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S1_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S2_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S2_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S3_GS 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S3_Ramp 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 7/Bay 7 B7S3_TP 
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S1_BE146_B
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S1_BE191
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S2_BE192_TG_Lip
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S2_BE193
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S3_BE194
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S3_BE195
+PRODUCT: /Bare Escentuals/8 Bay/Bay 8/Bare Escentuals B8S3_BE196_B
+PRODUCT: /Bare Escentuals/Capitola/SS/Bare Escentuals Capitola/SS DETOX FPU Back
+PRODUCT: /Bare Escentuals/Capitola/SS/Bare Escentuals Capitola/SS Tutorials FPU
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_17 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_18
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_19 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_20 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_24 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_25 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 E_CO_26 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 1/Endcap1 EC01 Topper 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 2/Endcap2 RGSK_V_2 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 2/Endcap2 RGSK_V_3 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 2/Endcap2 RGSK_V_4 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 2/Endcap2 RGSK_V_5 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 2/Endcap2 RGSK_V_7 
+PRODUCT: /Bare Escentuals/Endcaps/Endcap 2/Endcap2 SKIN_V_1 Topper 
+PRODUCT: /Bare Escentuals/Tower/4Bay HSQ HOL14_T1_GWP
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_T1_1
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_3 Medium
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_4 Tan
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_5 Dark
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_6 Light
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_7 Medium
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_8 Tan
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower CONCEAL_TPM2_9 Dark
+PRODUCT: /Bare Escentuals/Tower/Bare Escentuals Tower EC_TUTORIALS_2
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_DDOM
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_Gift A700
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_GSK
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_MM
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_OFDN_200
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_RGSK
+PRODUCT: /Bare Escentuals/Tower/Tower HOL14_T2
+PRODUCT: /BB Cream/24 x 6 Duratrans/24 x 6 Duratrans
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Air Buffed Cream Glow
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Air Buffed Linen Glow
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Air Buffed Vanilla Glow
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/BB Cream Light
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/BB Cream Light/Medium
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/CC Cream Dark
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/CC Cream Fair
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/CC Cream Light/Fair
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/CC Cream Medium
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Cream Glow
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Linen Glow
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Nude Glow
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Smashbox CC Cream Light
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Smashbox CC Cream Light/Medium
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Stila
+PRODUCT: /BB Cream/5 x 6 Glossy Lambda/Urban Decay
+PRODUCT: /Bliss/2 Bay Floor/2BayFloor B1S1
+PRODUCT: /Bliss/2 Bay Floor/2BayFloor B1S2
+PRODUCT: /Bliss/2 Bay Floor/2BayFloor B1S3
+PRODUCT: /Bliss/2 Bay Floor/2BayFloor B2S1
+PRODUCT: /Bliss/2 Bay Floor/2BayFloor B2S2
+PRODUCT: /Bliss/2 Bay Floor/2BayFloor B2S3
+PRODUCT: /Bliss/2 Bay Wall/2 Bay Wall B1S1
+PRODUCT: /Bliss/2 Bay Wall/2 Bay Wall B1S2
+PRODUCT: /Bliss/2 Bay Wall/2 Bay Wall B1S3
+PRODUCT: /Bliss/2 Bay Wall/2 Bay Wall B2S1
+PRODUCT: /Bliss/2 Bay Wall/2 Bay Wall B2S2
+PRODUCT: /Bliss/2 Bay Wall/2 Bay Wall B2S3
+PRODUCT: /Bliss/Stickers/Stickers Firm Baby Firm Facial Serum
+PRODUCT: /Bliss/Stickers/Stickers Firm Baby Firm Total Eye System
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Header
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 1 Strip
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 1 Tester Template
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 2  Magnetic Strip
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 2 Tester Template
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 3 Magnetic Strip
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 4 Magnetic Strip
+PRODUCT: /Butter/Current Graphics/Adjustable Endcap/Butter_ADJ Shelf 5 Strip
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_3D Butterfly
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_3D Raven
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Header Graphic 
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 1 Strip
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 1 Tester Template
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 2 Magnetic Strip
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 2 Tester Template
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 3 Magnetic Strip
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 4 Magnetic Strip
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Shelf 5 Strip
+PRODUCT: /Butter/Current Graphics/Endcap/Butter_Small Header 
+PRODUCT: /Butter/Generic Strip/ButterLondon_Generic Strip 1
+PRODUCT: /Butter/Generic Strip/ButterLondon_Generic Strip 2
