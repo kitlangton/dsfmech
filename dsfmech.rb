@@ -16,31 +16,20 @@ module DSF
       @file = File.new(__dir__ + "/dsflog.txt", "w")
     end
 
-    def setup
-      visit "https://coloredge.myprintdesk.net/DSF/Login.aspx"
-      fill_in "ctl00$ctl00$C$W$_loginWP$_myLogin$_userNameTB", with: "administrator"
-      fill_in "ctl00$ctl00$C$W$_loginWP$_myLogin$_passwordTB", with: "cTKQ&sial4xe"
-      click_button "Login"
+    def scrape
+      login
 
       visit_home
       each_link
     end
 
-    def visit_home
-      visit "https://coloredge.myprintdesk.net/DSF/Companies/macy's%20hotline/storefront.aspx?SITEGUID=03c4a9c9-fabd-431f-be73-f7cf41734a70"
-      visit "https://coloredge.myprintdesk.net/DSF/storefront.aspx"
-      select "50", from: "ctl00$ctl00$C$W$_FeaturedCategoryDisplayControlWP$_FeaturedCategories$PagerUI1$PageSizesDropDown"
-      sleep 3
+    def login
+      visit "https://coloredge.myprintdesk.net/DSF/Login.aspx"
+      fill_in "ctl00$ctl00$C$W$_loginWP$_myLogin$_userNameTB", with: "administrator"
+      fill_in "ctl00$ctl00$C$W$_loginWP$_myLogin$_passwordTB", with: "cTKQ&sial4xe"
+      click_button "Login"
     end
 
-    def product?(col)
-        col.traverse do |node|
-          if node['id']
-            return node['href'] if node['id'].match(/ProductItem_ManageIt/)
-          end
-        end
-        false
-    end
 
     def each_link(path = "")
       my_url = current_url
@@ -49,16 +38,17 @@ module DSF
       sections.each do |col|
         if product_link = product?(col)
           product_name = col.css('.producttitlelinkcolor-link')[0].text
+          product_size = col.css('.text-BuFpS-000000')[0].text
           my_path = path + "/" + product_name
 
-          # visit "https://coloredge.myprintdesk.net/DSF/#{product_link}"
-          # product = Nokogiri::HTML(body)
-          # full_name = product.css("#ctl00_ctl00_C_M_ctl00_W_ctl01__Name")[0]['value']
+          visit "https://coloredge.myprintdesk.net/DSF/#{product_link}"
+          product = Nokogiri::HTML(body)
+          full_name = product.css("#ctl00_ctl00_C_M_ctl00_W_ctl01__Name")[0]['value']
 
           puts "#{my_path}"
-          # p full_name
-          # puts "ID: #{full_name}"
           @file.puts "PRODUCT: #{my_path}"
+          puts "ID: #{full_name}"
+          puts "SIZE: #{product_size.scan(/[\d"x.]/).join.gsub("x"," x ")}"
         else
           product_name = col.css('.producttitlelinkcolor-link')[0].text
           my_path = path + "/" + product_name
@@ -75,7 +65,24 @@ module DSF
       end
     end
 
+    private
+
+    def visit_home
+      visit "https://coloredge.myprintdesk.net/DSF/Companies/macy's%20hotline/storefront.aspx?SITEGUID=03c4a9c9-fabd-431f-be73-f7cf41734a70"
+      visit "https://coloredge.myprintdesk.net/DSF/storefront.aspx"
+      select "50", from: "ctl00$ctl00$C$W$_FeaturedCategoryDisplayControlWP$_FeaturedCategories$PagerUI1$PageSizesDropDown"
+      sleep 3
+    end
+
+    def product?(col)
+        col.traverse do |node|
+          if node['id']
+            return node['href'] if node['id'].match(/ProductItem_ManageIt/)
+          end
+        end
+        false
+    end
   end
 end
 
-DSF::Undertaker.new.setup
+DSF::Undertaker.new.scrape
